@@ -1,0 +1,29 @@
+    body {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .container {
+        max-width: 730px;
+    }
+    
+    h3 {
+        line-height: 40px;
+    }
+    
+    .jumbotron {
+        margin-top: 50px;
+        text-align: center;
+        border-bottom: 1px solid #e5e5e5;
+    }
+    
+    .jumbotron .btn {
+        padding: 14px 24px;
+        font-size: 21px;
+    }
+    
+    .marketing {
+        margin: 40px 0;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
